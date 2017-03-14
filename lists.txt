@@ -1,0 +1,1 @@
+[ {"frage":"Was sind die 10 größten Fußballstadien in Deutschland",  "antwort":"Signal Iduna Park, Dortmund Allianarena, München Olympia-Stadion, Berlin Olympa-Stadion, München Veltins-Arena, Gelsenkirchen Mercedes-Benz-Arena, Stuttgart Volksparkarena, Hamburg ESPRIT-Arena, Düsseldorf Stadion am Borrusia-Park, Mönchengladbach Commerzbankarena, Frankfurt am Main"} ] 
