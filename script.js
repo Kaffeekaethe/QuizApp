@@ -22,9 +22,9 @@ function Inititialize() {
 		topics.push(thema.value);
 	});
 
-	if (topics.length > 0 && topics[0] == "quizduell") {
+	/*if (topics.length > 0 && topics[0] == "quizduell") {
 		with_assignment = true;
-	}
+	}*/
 
 	console.log(with_assignment);
 
