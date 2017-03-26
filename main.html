@@ -19,9 +19,25 @@
 			<p id="question"></p>
 			<p id="answer"></p>
 		</div>
+		<div id="assigment" hidden>
+			<p>
+				<select multiple size="7" id="topic_assigment">
+					<option value="geschichte">Geschichte</option>
+					<option value="naturwissenschaften">Naturwissenschaften</option>
+					<option value="mathematik">Mathematik</option>
+					<option value="technik">Technik</option>
+					<option value="gesellschaft">Gesellschaft</option>
+					<option value="politik">Politik</option>
+					<option value="geographie">Geographie</option>
+					<option value="test">test</option>
+				</select>
+			</p>			
+			<button onclick="Assign_Topic();">Speichern</button>	
+		</div>
 		<div id="selection">
 			<div class="container">
-				<select multiple size="7" id="themen">
+				<select multiple size="7" id="topics">
+					<option value="quizduell">Quizduell-Zuordnung</option>
 					<option value="all">Alle Themengebiete</option>
 					<option value="geschichte">Geschichte</option>
 					<option value="naturwissenschaften">Naturwissenschaften</option>
@@ -29,7 +45,7 @@
 					<option value="technik">Technik</option>
 					<option value="gesellschaft">Gesellschaft</option>
 					<option value="politik">Politik</option>
-					<option value="geographoe">Geographie</option>
+					<option value="geographie">Geographie</option>
 				</select>
 			</div>
 			<div class="container">
