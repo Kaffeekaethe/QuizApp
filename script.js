@@ -56,7 +56,7 @@ function Load_Next() {
 
 async function Start_Timer(answer) {
 	elem_timer.innerHTML = 5;
-	for(var i = 0; i < 5; i++) {
+	for(var i = 0; i < 10; i++) {
 		await Sleep(1000);
 		elem_timer.innerHTML--;
 	}
